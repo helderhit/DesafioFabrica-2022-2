@@ -30,6 +30,5 @@ let dados = [
       image: "https://robohash.org/5?set=set2",
     },
   ];
-  
+
   export default dados;
-  
